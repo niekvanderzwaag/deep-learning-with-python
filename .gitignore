@@ -1,3 +1,10 @@
 
 *.jpg
 *.keras
+*.png
+*.xml
+*.txt
+*.gz
+*.mat
+annotations/README
+annotations/._trimaps
