@@ -8,10 +8,10 @@
     ✔️ Chapter 5: Fundamentals of machine learning
     ✔️ Chapter 7: Working with Keras: a deep dive
     ✔️ Chapter 8: Introduction to deep learning for computer vision
-    ⚪ Chapter 9: Advanced deep learning for computer vision
+    ✔️ Chapter 9: Advanced deep learning for computer vision
     ✔️  Part 1: Image segmentation
-        Part 2: Modern convnet architecture patterns
-        Part 3: Interpreting what convnets learn
+    ✔️  Part 2: Modern convnet architecture patterns
+    ✔️  Part 3: Interpreting what convnets learn
     ⚪ Chapter 10: Deep learning for timeseries
     ⚪ Chapter 11: Deep learning for text
         Part 1: Introduction
